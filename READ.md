@@ -1,0 +1,1 @@
+Welcome to the COMP2216_Merge_Example created for our instruction manual here we will walk you through how to create a new branch and merge
